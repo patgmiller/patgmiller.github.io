@@ -13,7 +13,7 @@ tags:
 We have a simple API where I work that isn't anything impressive, it is just a couple of scripts that accept POST and GET requests. However the previous developer who worked on it hadn't considered the total ramifications and logged all requests using an email with print statements. Additionally, for each request there could be up to 3 emails generated, one for the initial request, one for errors, and one that included the payment gateway request and response. Not mention it definitely breaks PCI Compliance by emailing people's credit card information, but we were also experiencing load issues on the web server for all the emails that were being generated through PHP Send Mail and the end result is about 10,000 to 100,000 emails waiting in my email account.
 <!--more-->
 
-So I changed the logging method to be a, wait for it, ... log file, what a novel idea. I wanted it to be just as useful as any other server log file so that I could use any of the Linux shell commands. For example if I wanted to do any of the following.
+So I changed the logging method to be a, wait for it, ... a log file, what a novel idea. I wanted it to be just as useful as any other server log file so that I could use any of the Linux shell commands. For example if I wanted to do any of the following.
 
 {{< highlight bash >}}
 $> cat filename | grep searchstring

@@ -8,8 +8,7 @@ categories:
 tags:
 - python
 - django
-- class-based-view
-- mixin
+- composition
 ---
 For the pass two years I've been developing in Python with the [Django](https://www.djangoproject.com/) framework and I have thoroughly enjoyed. As much as possible I have attempted to build tools that follow the DRY, Don't Repeat Yourself, principle. With Django 1.3+ they released [Classed Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/) Classed Based Views</a> (CBV), which, in my opinion lend themselves more to generic applications than do the [Function Based Views](https://docs.djangoproject.com/en/1.3/ref/generic-views/) Function Based Views</a> (FBV).
 <!--more-->

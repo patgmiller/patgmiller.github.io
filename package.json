@@ -1,0 +1,27 @@
+{
+  "name": "patgmiller.github.io",
+  "description": "website for Patrick Miller",
+  "version": "1.10.3",
+  "license": "MIT",
+  "author": "patrick.miller",
+  "scripts": {
+    "dev": "hugo server --buildDrafts --buildFuture",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
+    "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
+    "format": "prettier -w ."
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "postcss-cli": "^11.0.0",
+    "prettier": "^3.1.1",
+    "prettier-plugin-go-template": "0.0.15",
+    "prettier-plugin-tailwindcss": "^0.5.10",
+    "tailwind-bootstrap-grid": "^5.1.0",
+    "tailwindcss": "^3.4.0"
+  }
+}

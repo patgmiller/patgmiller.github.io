@@ -16,7 +16,7 @@ require (
 	github.com/gethugothemes/hugo-modules/images v0.0.0-20231227015948-b2308653c9e2 // indirect
 	github.com/gethugothemes/hugo-modules/modal v0.0.0-20231227015948-b2308653c9e2 // indirect
 	github.com/gethugothemes/hugo-modules/pwa v0.0.0-20231227015948-b2308653c9e2 // indirect
-	github.com/gethugothemes/hugo-modules/search v0.0.0-20240109021739-061cfb8edb9d // indirect
+	github.com/gethugothemes/hugo-modules/search v0.0.0-20240120045522-de7bf6048f16 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20231227015948-b2308653c9e2 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager v0.0.0-20231227015948-b2308653c9e2 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/site-verifications v0.0.0-20231227015948-b2308653c9e2 // indirect
@@ -27,7 +27,3 @@ require (
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20231227015948-b2308653c9e2 // indirect
 	github.com/zeon-studio/hugoplate v0.0.0-20231231021647-f2f9095d1de4 // indirect
 )
-
-// https://github.com/gethugothemes/hugo-modules/issues/34
-// @TODO: remove this after PR is merged
-replace github.com/gethugothems/hugo-modules/search => github.com/patgmiller/hugo-modules/search v0.0.0-20240119025608-f4a4dc58820a

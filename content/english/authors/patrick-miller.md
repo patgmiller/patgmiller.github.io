@@ -13,4 +13,4 @@ social:
     link: https://linkedin.com/in/patgmiller
 ---
 
-Software Engineer and tech enthusiast.
+Software Engineer, tech enthusiast, and aspiring human being.

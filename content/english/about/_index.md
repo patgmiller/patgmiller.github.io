@@ -6,7 +6,7 @@ image: "/images/bio/patrick-miller-full.jpeg"
 draft: false
 ---
 
-Loving husband, devoted (yet sometimes annoying) father, and tech enthusiast.
+Loving husband, devoted (yet sometimes annoying) father, Software Engineer, tech enthusiast, and aspiring human being.
 
 ## Before
 

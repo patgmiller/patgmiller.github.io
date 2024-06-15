@@ -59,7 +59,7 @@ I tried a couple migration scripts out there, one or two gists on github.com but
 
 ### Bug Fix
 
-Found and fixed bug in the [search hugo-module](https://github.com/gethugothemes/hugo-modules/pull/35). It's always fun and rewarding to contribute to the OpenSource community, especially when it is accepted <i class="fa-solid fa-smile-beam"></i>
+Found and fixed a bug in the [search hugo-module](https://github.com/gethugothemes/hugo-modules/pull/35). It's always fun and rewarding to contribute to the OpenSource community, especially when it is accepted <i class="fa-solid fa-smile-beam"></i>
 
 ## Conclusion
 

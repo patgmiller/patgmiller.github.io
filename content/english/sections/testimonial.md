@@ -45,11 +45,6 @@ testimonials:
     avatar: "/images/avatars/jeremiah-jones.jpeg"
     content: "In addition to Patrick's breadth of expertise, one of his most valuable traits is his tenacity for solving challenges. Every engineering organization faces difficult problems and Patrick is never one to shy away from confronting issues head-on. He is not afraid to step outside of his own area of knowledge to assist others when the pressure is on."
 
-  - name: "Jamie Lords"
-    designation: "Director of Marketing"
-    avatar: "/images/avatars/jamie-lords.jpeg"
-    content: "Patrick is dedicated and upbeat. His ability to capture a customer’s vision and ideas are key to his superior programming ability, and it is because of his excellent personal skills that he has found great success. Patrick is detail oriented and has the ability to analyze a project and accurately forecast scope and scale. He is a positive influence on those that work and socialize with him. Patrick multitasks effectively and is able to handle a high-volume workload. Patrick is a student of technology, and his thirst for knowledge leads him to constantly study, learn, and grow."
-
   - name: "Dan Purcell"
     designation: "App Developer"
     avatar: "/images/avatars/dan-purcell.jpeg"

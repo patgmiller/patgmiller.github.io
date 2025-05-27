@@ -24,6 +24,6 @@ We are all still alive and each day is a new adventure. I must admit I once had 
 
 ## Now
 
-Fast-forward 10+ years, so much has happend! The kids grew a few inches, I grew a few inches, and life just keeps on moving. Yes, we're all still alive!
+Fast-forward 10+ years, so much has happened! The kids grew a few inches, I grew a few inches, and life just keeps on moving. Yes, we're all still alive!
 
 ![Us Now](/images/2023/03/millers-now.jpg)

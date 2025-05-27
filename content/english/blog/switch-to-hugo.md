@@ -24,7 +24,9 @@ A few years ago I switched to using Jekyll with github.com for my blog, mainly b
 - I started with Python so trying to code in Ruby just felt ... off to me.
 - The Ruby community always felt smaller than other languages.
 
-Not that I consider Ruby to be inferior, because I've known several talented Ruby developers and successful projects built in Ruby, it's just my personal preference. Also not because I couldn't hack it, because I spent the last 5 years working as a Site Reliability Engineer where I wrote Chef Recipes (Ruby) to manage some of the custom provisioning for Google Cloud and internally hosted virtual machines. As a result I've been intending to switch over to Hugo for a while. Since I recently have some free time, and the motivation to be publishing content, so here we are let's dive in!
+Not that I consider Ruby to be inferior, because I've known several talented Ruby developers and successful projects built in Ruby, it's just my personal preference. Also not because I couldn't hack it, because I spent the last 5 years working as a Site Reliability Engineer where I wrote Chef Recipes (Ruby) to manage some of the custom provisioning for Google Cloud and internally hosted virtual machines.
+
+However, As a result I've been intending to switch over to Hugo for a while. Since I recently have some free time, and the motivation to be publishing content, so here we are let's dive in!
 
 ### Theme / Site Template
 

@@ -5,6 +5,7 @@ draft: false
 image: "/images/blog/2024/hugo-logo-wide.svg"
 summary: Over the years, there have been numerous apps and libs for managing one's own website. Collectively these can be referred to as content management systems (CMS) and the majority started out as a combination of some programming language paired with a storage backend (database).
 title: 'Switch to Hugo'
+url: switch-to-hugo
 categories:
 - Programming
 tags:

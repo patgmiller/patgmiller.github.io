@@ -3,7 +3,7 @@ date: '2025-06-12T09:44:32-06:00'
 author: Patrick Miller
 draft: false
 image: "/images/blog/2025/browserpass-logotype-horizontal.png"
-summary: 
+summary: So much of the Internet is based on open source tools and technology that are free to use, which we can often take for granted. The next time you use an open source or free tool off the Internet, think about what you can do to help keep it that way.
 title: 'Browserpass: The Full CRUD'
 url: browserpass-extension-full-crud
 categories:
